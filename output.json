@@ -1,0 +1,13 @@
+{
+  "views": "16",
+  "urls": "0",
+  "traffic": "212816",
+  "linesCount": "16",
+  "statusCodes": {
+    "200": "14",
+    "301": "2"
+  },
+  "crawlers": {
+    "Mozilla": "16"
+  }
+}
